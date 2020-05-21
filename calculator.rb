@@ -1,1 +1,1 @@
-var first_number = 11
+let first_number = 11
