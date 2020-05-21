@@ -1,2 +1,2 @@
-var first_number(number)
-end
+var first_number = 11
+
