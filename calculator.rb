@@ -1,2 +1,2 @@
-def first_number(number)
+var first_number(number)
 end
